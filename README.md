@@ -6,7 +6,7 @@ This is a repo that contains the script in MAXScript Language that creates a plu
 
 This was made in 3dsMax 2020. <br />
 
-1. Download [this file](https://github.com/the-other-mariana/3dsmax-plugins/blob/master/08192020/wine-glass-v3.ms) and store it in your computer.<br />
+1. Download [this file](https://github.com/the-other-mariana/wine-glass-plugin/blob/master/wine-glass-v3.ms) and store it in your computer.<br />
 2. Open 3dsMax. <br />
 3. Click on `Scripting` tab. <br />
 4. Choose `MAXScript Editor`. <br />
@@ -54,7 +54,7 @@ A picture of probably all final parameters is shown bellow.
 
 ### Final version
 
-Current script is [this file](https://github.com/the-other-mariana/3dsmax-plugins/blob/master/08192020/wine-glass-v3.ms). An example would be the following.<br />
+Current script is [this file](https://github.com/the-other-mariana/wine-glass-plugin/blob/master/wine-glass-v3.ms). An example would be the following.<br />
 
 ![alt text](https://github.com/the-other-mariana/wine-glass-plugin/blob/master/images/process-final.png?raw=true) <br />
 
