@@ -44,7 +44,7 @@ I made section 4's curve to be calculated automatically (inverse tangent!) and t
 
 ### 5th Round
 
-This time I found that smoothing groups in 3dsMax are set according to powers of two: if you want a face in smoothing group 4 (N), you need to write 2^(N-1), that is, an 8. So I set every section to its own sg, except when Belly is on (1), because then it section 5 must have the same sg as section 4 (belly) so that it looks nice.<br />
+This time I found that smoothing groups in 3dsMax are set according to powers of two: if you want a face in smoothing group 4 (N), you need to write 2^(N-1), that is, an 8. So I set every section to its own sg, except when Belly is on (1), because then section 5 must have the same sg as section 4 (belly) so that it looks nicely blended.<br />
 
 ![alt text](https://github.com/the-other-mariana/wine-glass-plugin/blob/master/images/smoothgroups.png?raw=true) <br />
 
