@@ -12,7 +12,7 @@ This was made in 3dsMax 2020. <br />
 4. Choose `MAXScript Editor`. <br />
 5. On the editor, go to File > Open File > /Downloads/wine-glass-v3.ms, to open the downloaded script from step 1. <br />
 6. Type Ctrl + E to run the script. <br />
-7. Find the plugin in `Plugins Class` category of meshes. <br />
+7. Find the plugin in `Wine Glass Plugin` category of meshes in 3dsMax Mesh Category dropdown menu. <br />
 
 ## Progress & Logic
 
