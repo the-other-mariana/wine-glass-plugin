@@ -1,7 +1,7 @@
 plugin simpleObject WineGlass_Mesh
 name: "Wine Glass"
-classID:#(0x4e2f8318, 0x205fef6d)
-category:"Plugins Class"
+classID:#(0x633e766d, 0x555485ad)
+category:"Wine Glass Plugin"
 (
 	parameters main rollout:WGlass_Params
 	(
